@@ -2,7 +2,7 @@
 
 <h2>1001件のWalmart商品のサンプルデータセット</h2>
 
-![Walmart dataset header](https://github.com/luminati-io/Walmart-dataset-samples/blob/main/walmart-datasets.PNG)
+![Walmart dataset header](https://github.com/bright-jp/Walmart-dataset-samples/blob/main/walmart-datasets.PNG)
 
 1000件以上の商品のWalmartデータセットサンプルです。データセットは<b>Bright Data API</b>を使用して抽出されました。
 
@@ -44,7 +44,7 @@
 
 <b>[Walmartの完全なデータセットを入手する](https://brightdata.jp/products/datasets/walmart)</b>。
 
-![Walmart dataset visual](https://github.com/luminati-io/Walmart-dataset-samples/blob/main/walmart-datasets-image.PNG)
+![Walmart dataset visual](https://github.com/bright-jp/Walmart-dataset-samples/blob/main/walmart-datasets-image.PNG)
 
 <h2>Walmartデータセットのユースケースは何ですか？</h2>
 
